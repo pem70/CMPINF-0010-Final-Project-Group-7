@@ -1,7 +1,7 @@
 # CMPINF-0010-Final-Project-Group-7
 This is for CMPINF 0010 Final Project(Group 7)
 
-## Team Name: Kung Fu kids
+## Team Name: Runaway
 
 ## Team Member: 
 1. Peizhao

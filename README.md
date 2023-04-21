@@ -13,4 +13,4 @@ This is for CMPINF 0010 Final Project(Group 7)
 3. [Arrest report](https://data.wprdc.org/dataset/arrest-data): Peizhao - Arrest.ipynb 
   
 ## Project overview:  
-This project contains analysis to determine the best neighborhood in the city of Pittsburgh! We have defined "bestness" to be the neighborhood that is greatest for Halloween trick-or-treating. This means that the winning neighborhood has a sense of community, is great for families, and is located in a wealthier residential area. As a result of this silly metric, it is important to note that the winning neighborhood is consequently a great place for kids to grow up in! Very practical knowledge for new Pittsburgh parents.
+This project contains analysis to determine the best neighborhood in the city of Pittsburgh! We have defined "bestness" to be the neighborhood that is greatest for this group to live in. This means that the winning neighborhood has a sense of culture integrity, safety, and convenient parking. As a result of these metrics, it is important to note that the winning neighborhood is consequently a great place for Asian people! Very practical knowledge for new International students.

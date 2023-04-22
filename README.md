@@ -8,7 +8,7 @@ This is for CMPINF 0010 Final Project(Group 7)
 2. Menghao
 
 ## Datasets:
-1. [permitparking](https://data.wprdc.org/dataset/pittsburgh-parking-meters-and-payment-points): Menghao - permitparking.ipynb   
+1. [permitparking](https://data.wprdc.org/dataset/residential-permit-parking-program-areas): Menghao - permitparking.ipynb   
 2. [Population](https://data.wprdc.org/dataset/2020-census-redistricting-data-extracts/resource/a8414ed5-c50f-417e-bb67-82b734660da6): Peizhao - Asian population.ipynb
 3. [Arrest report](https://data.wprdc.org/dataset/arrest-data): Peizhao - Arrest.ipynb 
   
